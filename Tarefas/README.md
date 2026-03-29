@@ -1,4 +1,4 @@
-# Lista de Tarefas — Projeto
+# Lista de Tarefas Projeto
 
 Pequena aplicação de lista de tarefas (HTML/CSS/JS puro).
 
